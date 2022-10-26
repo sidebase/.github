@@ -4,5 +4,5 @@
 
 🌈 Get involved by joining our [discord](https://discord.gg/9MUHR8WT9B), following our [twitter](https://twitter.com/sidebase_io) or opening issues and pull requests on our repositories here (: 
 
-👩‍💻 You can find our website here: https://sidebase.io/ - at the moment most of the things are going on on discord though
+👩‍💻 You can find our website here: https://sidebase.io/ - at the moment most of the things are going on discord though
 
