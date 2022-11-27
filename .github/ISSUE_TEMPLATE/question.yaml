@@ -1,0 +1,22 @@
+name: ❓ Question
+description: Ask a question on how to use this project
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please checkout the documentation before asking a question.
+  - type: textarea
+    id: question
+    attributes:
+      label: Ask your question
+      description: A clear and concise description of what you want to know, ideally with information on what you've already tried and didn't work to resolve your question and the research you have already done
+      placeholder: Your question
+    validations:
+      required: true
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional information
+      description: Additional information that helps us to answer your question.
+      placeholder: Additional information
